@@ -1,17 +1,16 @@
 <div align="center">
 <img src="/hello-world.gif" align="center" style="width: 100%" />
-</div>  
-
+</div>
 
 ### <div align="center">Hi 👋 I'm Sayan Munshi, a passionate full-stack developer 👨‍💻 keen to learn new things and contribute positively 🚀</div>
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes
+- 🌱 I’m currently learning TypeScript
 
 - ❓ Ask me about anything related to MERN stack and related technologies
 
-- ⚡ Fun fact: I use tabs over spaces
+- ⚡ Hobbies: I like Sketching in my leisure
 
 <br/>
 
@@ -86,8 +85,7 @@
 <a href="https://instagram.com/blank_36_r" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 <br/>
 
@@ -105,8 +103,7 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=SayanMunshi-blank36&&style=flat-square" align="center" />
-</div>  
-
+</div>
 
 <br/>
 
