@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://augustopontin.com.br/wp-content/uploads/2020/02/hello_world.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
 ### <div align="center">Hi 👋 I'm Sayan Munshi, a passionate full-stack developer 👨‍💻 keen to learn new things and contribute positively 🚀</div>
