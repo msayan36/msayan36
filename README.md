@@ -34,11 +34,11 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/SayanMunshi-blank36">
-  <img height="180em" width = "400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SayanMunshi-blank36&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width = "400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SayanMunshi-blank36&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<p align ="Center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SayanMunshi-blank36&&show_icons=true&theme=radical" width="50%">
+</p>
+<p align ="Center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanMunshi-blank36&layout=compact&theme=tokyonight&custom_title=Top%20Languages" width="50%">  
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
