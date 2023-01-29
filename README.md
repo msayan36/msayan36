@@ -36,6 +36,8 @@
 
 <p align ="Center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SayanMunshi-blank36&&show_icons=true&theme=radical" width="50%">
+</p>
+<p align ="Center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanMunshi-blank36&layout=compact&theme=tokyonight&custom_title=Top%20Languages" width="50%">  
 </p>
 
