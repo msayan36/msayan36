@@ -46,5 +46,5 @@
 <p align="center">
 <a href="https://sayanmunshi.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sayan-munshi-714a401b8"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/blank_36"><img src="https://img.shields.io/badge/-Twitter-D14836?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://twitter.com/blank_36"><img src="https://img.shields.io/badge/-Twitter-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
