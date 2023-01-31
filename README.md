@@ -34,7 +34,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align ="Center">
+<p>
 <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=SayanMunshi-blank36&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E">
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=SayanMunshi-blank36&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
