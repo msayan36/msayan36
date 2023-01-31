@@ -39,8 +39,8 @@
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=SayanMunshi-blank36&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E&custom_title=More%20Stats" />
 </p>
 
-<p align ="Center">
-<img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanMunshi-blank36&&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E&custom_title=Top%20Languages">  
+<p>
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanMunshi-blank36&&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E&custom_title=Top%20Languages">  
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
