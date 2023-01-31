@@ -1,6 +1,6 @@
 <h2>Hey there! I'm Sayan</h2>
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and I am very passionate about development.\
 🎓 &nbsp;I'm currently studying Information Technology at the Institue of Engineering and Management, Kolkata.\
@@ -8,9 +8,9 @@
 ✍️ &nbsp;In my free time, I love sketching and writing about my experiences with different technologies.\
 ✉️ &nbsp;You can shoot me an email at sayanmunshi36@gmail.com! I'll try to respond as soon as I can.
 
-<!-- <img alt="Night Coding" src="3AyY.gif" align="right" width = "300" height = "150"/> -->
+<hr />
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
@@ -32,7 +32,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;\
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+<hr />
+
+## ⚙️ &nbsp;GitHub Analytics
 
 <p>
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=SayanMunshi-blank36&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
@@ -43,7 +45,9 @@
 <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanMunshi-blank36&&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E&custom_title=Top%20Languages">  
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+<hr />
+
+## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://sayanmunshi.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-DC143C?style=flat&logo=Google-Chrome&logoColor=white"/></a>
