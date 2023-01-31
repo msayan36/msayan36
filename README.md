@@ -36,8 +36,8 @@
 
 <p align ="Center">
 <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=SayanMunshi-blank36&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E">
-</p>
-<p align ="Center">
+<!-- </p> -->
+<!-- <p align ="Center"> -->
 <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanMunshi-blank36&layout=compact&theme=tokyonight&custom_title=Top%20Languages" width="50%">  
 </p>
 <p align ="Center">
