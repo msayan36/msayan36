@@ -35,10 +35,13 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align ="Center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SayanMunshi-blank36&&show_icons=true&theme=radical" width="50%">
+<img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=SayanMunshi-blank36&&show_icons=true&theme=radical" width="50%">
 </p>
 <p align ="Center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanMunshi-blank36&layout=compact&theme=tokyonight&custom_title=Top%20Languages" width="50%">  
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanMunshi-blank36&layout=compact&theme=tokyonight&custom_title=Top%20Languages" width="50%">  
+</p>
+<p align ="Center">
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=SayanMunshi-blank36&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
