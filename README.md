@@ -37,12 +37,12 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p>
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=SayanMunshi-blank36&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=SayanMunshi-blank36&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E&custom_title=More%20Stats" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=msayan36&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=msayan36&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E&custom_title=More%20Stats" />
 </p>
 
 <p align="Center">
-<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanMunshi-blank36&&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E&custom_title=Top%20Languages">  
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msayan36&&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E&custom_title=Top%20Languages">  
 </p>
 
 <hr />
